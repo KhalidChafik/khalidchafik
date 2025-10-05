@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khalid 👋
 
-<!--
-**KhalidChafik/khalidchafik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer passionate about building robust data solutions to leverage business growth and innovation.  
+Specializing in Python, SQL, Spark, and Power BI, I design ETL pipelines and data architectures for scalable analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Programming & Data:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=MySQL&logoColor=white" />  
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache%20Spark&logoColor=white" />  
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=PowerBI&logoColor=white" />
+
+**Databases:**  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+
+---
+
+## 🌍 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalidchafik)
